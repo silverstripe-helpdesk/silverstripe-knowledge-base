@@ -16,3 +16,13 @@ As program structure is concerned you should follow [Eric Raymond’s 17 Unix Ru
 
 A simple, clean, and very basic theme must be provided, but it is not the intention of this module to provide such interface. It is intention of this module to provide a simple, yet powerfull, mechanism to store, review, and find information articles.
 
+#### Feature Set
+
+* Revision Control
+  It is essential to keep a record of work done to an existing information article. It is not of any use, thought, to hold on to obsolete information.
+* Full Text Search
+  Any kind of information database that does not provide a reliable search engine to find the information one needs, doesn't exist.
+* Tagging
+  A categorization method is essential to subject based findings. Tagging is the simpliest way to provide such categorization while providing most of the features of more complex categorization alternatives.
+* Markdown Based
+  Titles, list, and simple paragraphs are one of the oldest text based technologies. Markdown provides an incredible simple way to organize text based information with such technologies.
